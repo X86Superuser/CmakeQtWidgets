@@ -1,0 +1,10 @@
+{
+    "qttools.creator": "/bin/designer",
+    "search.exclude": {
+        "": true
+    },
+    "files.exclude": {
+        ".vs": true,
+        "CMakeSettings.json": true
+    }
+}

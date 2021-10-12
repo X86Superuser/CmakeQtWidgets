@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_TEXT1  TEXT   "..\\..\\..\\resources\\very_important_data.txt"
+IDR_TEXT2  TEXT   "..\\..\\..\\resources\\more_data.txt"
