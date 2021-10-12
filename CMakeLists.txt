@@ -1,6 +1,10 @@
-﻿# ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+﻿# ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 # By SuperUserx86.com 2021
-# ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+# ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+# Fuente 
+# https://github.com/X86Superuser/CmakeQtWidgets.git
+
+# Ayuda
 # https://cmake.org/cmake/help/v3.21/
 
 

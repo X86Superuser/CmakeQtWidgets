@@ -1,7 +1,11 @@
 
+set(winCmake "D:/Programacion/Windows/C++/Bibliotecas_Estaticas/QT/Qt-Static/Qt-5.15.2-Multi-vc2019/lib/cmake")
+if (EXISTS ${winCmake})
+else()
+	message(FATAL_ERROR "No existe la carpeta ${winCmake}")
+endif()
 
-#set(CMAKE_PREFIX_PATH ${winCmake})
-set(CMAKE_PREFIX_PATH "D:/Programacion/Windows/C++/Bibliotecas_Estaticas/QT/Qt-Static/Qt-5.15.2-Multi-vc2019/lib/cmake")
+set(CMAKE_PREFIX_PATH ${winCmake})
 set(CMAKE_CXX_FLAGS_RELEASE "/MT")
 set(CMAKE_CXX_FLAGS_DEBUG "/MTd")
 
